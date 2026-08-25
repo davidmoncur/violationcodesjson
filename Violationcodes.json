@@ -1,0 +1,12 @@
+[
+	{
+	"Violation Code": "CA T24 11B-403.3",
+	"ADA Code": "ADA 403.3",
+	"Description": "The running slope of walking surfaces must not be steeper than 1:20. Fig. 2"
+	},
+	{	
+	"Violation Code": "CA T24 11B-403.3",
+	"ADA Code": "ADA 403.3",
+	"Description":  "The cross slope of walking surfaces must not be steeper than 1:48. Fig. 2"
+	}
+]
